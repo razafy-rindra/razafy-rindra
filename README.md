@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Rust and going through Lang's Algebra and Papa Rudin.
 - 📫 How to reach me: hagamena.tandrabe@gmail.com
 
+In front of the ocean of mathematics, we are tasked with finding the islands of truth.
+In our eternal voyage we must heed Hilbert's epitaph: We must know — we will know.
+
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---

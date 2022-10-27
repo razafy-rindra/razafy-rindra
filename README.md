@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @razafy-rindra
-- 👀 I’m interested in mathematics in general, more specifically Algebraic geometry and Combinatorial Game Theory
-- 🌱 I’m currently learning Rust and studying some maths textbooks.
+- 👀 I’m interested in all things mathematics! More specifically, you will probably see me writing about Algebraic geometry and Chaos&Fractals.
+- 🌱 I’m currently learning Rust and going through Lang's Algebra and Papa Rudin.
 - 📫 How to reach me: hagamena.tandrabe@gmail.com
 
 <!--- - 💞️ I’m looking to collaborate on ... --->

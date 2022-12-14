@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @razafy-rindra
 - 👀 I’m interested in all things mathematics! More specifically, you will probably see me writing about Algebraic geometry and Chaos&Fractals.
-- 🌱 I’m currently learning Rust and going through Lang's Algebra and Papa Rudin.
+- 🌱 I’m currently learning Rust and going through Lang's Algebra and Papa Rudin. 
+- 📈 [Check my Exercism profile for my progress in programming](https://exercism.org/profiles/razafy-rindra)
 - 📫 How to reach me: razafy.rindra@gmail.com
 
 In front of the ocean of mathematics, we are tasked with finding the islands of truth.

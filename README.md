@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @razafy-rindra
-- 👀 I’m interested in all things mathematics! More specifically, you will probably see me writing about Algebraic geometry and Chaos&Fractals.
-- 🌱 I’m currently learning Rust and going through Lang's Algebra and Papa Rudin. 
+- 👀 I’m interested in all things mathematics! More specifically, you will probably see me writing about Algebraic geometry and Visualising Maths.
+- 🌱 I’m currently studying for my master's at UAlberta. You may find lecture notes here, but also occasionally some Rust projects and some notes on various textbooks.
 - 📈 [Check my Exercism profile for my progress in programming](https://exercism.org/profiles/razafy-rindra)
 - 📫 How to reach me: razafy.rindra@gmail.com
 
